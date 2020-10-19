@@ -1,0 +1,21 @@
+
+
+h1 {
+	font-family:'Russo One', sans-serif;
+	font-size: 64px;
+	text-align: center;
+	color: #4e4e55;
+}
+
+
+
+#excuse{
+	position: relative;
+	top: 30px;
+	left: 25px;
+	font-family: 'Amatic SC', monospace;
+    font-size: 34px;
+    text-align: center;
+	color: #009;
+}
+
