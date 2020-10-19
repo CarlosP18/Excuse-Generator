@@ -1,8 +1,8 @@
 
     let who = ['The dog','My grandma','His turtle','My bird'];
-    let action = ['ate','snaped','crushed','broke'];
+    let action = ['ate','snapped','crushed','broke'];
     let what = ['my homework', 'the keys', 'the car'];
-    let when = ['before the class','right on time','when I finished','during my lunch','while I was praying'];
+    let when = ['before the class','right on time','when I finished','during my lunch','while I was joggin'];
 
     function onLoad(){
         
